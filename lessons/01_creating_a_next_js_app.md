@@ -59,3 +59,35 @@ out/
 .env
 .vercel
 ```
+
+Creating a `.prettierrc` config file
+
+```
+{
+  "endOfLine": "lf",
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5"
+}
+```
+
+Create a `.prettierignore` file
+
+```
+.next
+package.json
+package-lock.json
+public
+node_modules
+```
+
+jsconfig.json
+
+```
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
+```
