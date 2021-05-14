@@ -48,3 +48,14 @@ Run app
 ```
 npm run dev
 ```
+
+Add a gitignore
+
+```
+node_modules/
+.next/
+.DS_Store
+out/
+.env
+.vercel
+```
