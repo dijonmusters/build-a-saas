@@ -58,4 +58,4 @@ Want to learn more about this stack? Check out my [egghead case study](https://e
 
 ## What now?
 
-(Let's get setup!)[./lessons/00_getting_setup.md]
+[Let's get setup!](./lessons/00_getting_setup.md)
